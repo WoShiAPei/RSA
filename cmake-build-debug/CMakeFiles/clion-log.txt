@@ -1,0 +1,4 @@
+"E:\jetbrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\CLion\RSA
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/CLion/RSA/cmake-build-debug
